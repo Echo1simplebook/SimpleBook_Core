@@ -32,3 +32,17 @@
 - [ ] Build onboarding tutorial script for SimpleBook
 
 ---
+Comment view
+---
+Comment on line R34
+Christophergarvice commented
+
+Christophergarvice
+Collaborator
+Author
+2025-11-25 – Memory System Update
+
+Daily_Sync_Log.md created
+Memory extension structure established (permanent log + daily log)
+System rules defined for what gets saved long-term
+First daily log entries added
